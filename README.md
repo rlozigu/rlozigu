@@ -27,6 +27,6 @@ Weight training, Yoga, Cycling, running,  All of Activities🤣
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlozigu&show_icons=true&theme=flag-india)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nenenem12)](https://solved.ac/nenenem12)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nenenem1212)](https://solved.ac/nenenem1212)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=ffd4d4)
