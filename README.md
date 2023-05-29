@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffd4d4&height=300&section=header&text=Welcome&&fontAlignY=40&desc=my%20github%20profile&fontColor=ffffff&fontSize=90&descAlign=70&descAlignY=55)
 #### SNS list
 
-<a href="https://eunjk.tistory.co" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://eunjk.tistory.com" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a><a href="https://instagram.com/babootang?igshid=NGExMmI2YTkyZg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/blog-ECD53F?style=for-the-badge&logo=.ENV&logoColor=black">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
