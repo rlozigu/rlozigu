@@ -3,7 +3,7 @@
 #### 💌Contact💌
 **rlozigu**@gmail.com
   
-#### Tech Stack
+#### 🎷Tech Stack🎷
 ##### ✨used as the main
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -12,7 +12,7 @@
 ##### ✨used at least once
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
-#### SNS list
+#### 🌏SNS🌏
 
 <a href="https://eunjk.tistory.com" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>  <a href="https://instagram.com/babootang?igshid=NGExMmI2YTkyZg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
@@ -21,7 +21,7 @@
 
 
 #### 🤹For fun🤹
-Weight training, Yoga, Cycling, running,  **All of Activities🤣**
+Weight training, Yoga, Cycling, running,  All of Activities🤣
 
 
 
